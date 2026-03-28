@@ -13,7 +13,7 @@
         <div class="menu">
             <div class="menu-item">
                 <a href="vistas/acronimo.php">
-                    <div class="icon">🔤</div>
+                    <div class="icon"></div>
                     <h3>Acrónimos</h3>
                     <p>Convierte frases en acrónimos</p>
                 </a>
@@ -21,7 +21,7 @@
             
             <div class="menu-item">
                 <a href="vistas/fibonacci_factorial.php">
-                    <div class="icon">🔢</div>
+                    <div class="icon"></div>
                     <h3>Fibonacci/Factorial</h3>
                     <p>Calcula series Fibonacci o factorial</p>
                 </a>
@@ -29,7 +29,7 @@
             
             <div class="menu-item">
                 <a href="vistas/estadisticas.php">
-                    <div class="icon">📊</div>
+                    <div class="icon"></div>
                     <h3>Estadísticas</h3>
                     <p>Promedio, mediana y moda</p>
                 </a>
@@ -37,7 +37,7 @@
             
             <div class="menu-item">
                 <a href="vistas/conjuntos.php">
-                    <div class="icon">⚡</div>
+                    <div class="icon"></div>
                     <h3>Conjuntos</h3>
                     <p>Unión, intersección y diferencia</p>
                 </a>
@@ -45,7 +45,7 @@
             
             <div class="menu-item">
                 <a href="vistas/binario.php">
-                    <div class="icon">💻</div>
+                    <div class="icon"></div>
                     <h3>Binario</h3>
                     <p>Convierte números a binario</p>
                 </a>
@@ -53,7 +53,7 @@
             
             <div class="menu-item">
                 <a href="vistas/arbol.php">
-                    <div class="icon">🌳</div>
+                    <div class="icon"></div>
                     <h3>Árbol Binario</h3>
                     <p>Construye árboles binarios</p>
                 </a>
@@ -61,7 +61,7 @@
             
             <div class="menu-item">
                 <a href="vistas/calculadora.php">
-                    <div class="icon">🧮</div>
+                    <div class="icon"></div>
                     <h3>Calculadora</h3>
                     <p>Operaciones con historial</p>
                 </a>
